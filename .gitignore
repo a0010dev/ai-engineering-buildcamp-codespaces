@@ -1,3 +1,11 @@
+.env
+aux_files/
+
+# Generated book data for the RAG notebook
+Week1/books/
+Week1/books_text/
+Week1/books_chunks/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
