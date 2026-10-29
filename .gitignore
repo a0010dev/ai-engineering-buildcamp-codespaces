@@ -1,5 +1,9 @@
 .env
 aux_files/
+Week4/taxi.db
+Week4/taxi.db.wal
+Week4/yellow_tripdata_2024-01.parquet
+/:memory:.ses
 
 # Generated book data for the RAG notebook
 Week1/books/
