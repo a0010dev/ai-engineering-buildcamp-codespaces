@@ -28,4 +28,5 @@ build-backend = "uv_build"
 [tool.uv.workspace]
 members = [
     "Week4",
+    "Week5",
 ]
