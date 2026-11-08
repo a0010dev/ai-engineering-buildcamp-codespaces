@@ -1,0 +1,113 @@
+{
+  "manual": {
+    "total": 20,
+    "bad": 6,
+    "bad_percentage": 30.0,
+    "by_type": {
+      "broad": {
+        "total": 2,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "context-dependent": {
+        "total": 1,
+        "bad": 1,
+        "bad_percentage": 100.0
+      },
+      "direct": {
+        "total": 1,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "explicit-restriction": {
+        "total": 1,
+        "bad": 1,
+        "bad_percentage": 100.0
+      },
+      "food-related": {
+        "total": 1,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "ingredient-based": {
+        "total": 2,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "ingredient-verification": {
+        "total": 1,
+        "bad": 1,
+        "bad_percentage": 100.0
+      },
+      "multi-recipe": {
+        "total": 1,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "not-in-collection": {
+        "total": 2,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "not-in-documentation": {
+        "total": 3,
+        "bad": 3,
+        "bad_percentage": 100.0
+      },
+      "specific": {
+        "total": 1,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "unrelated": {
+        "total": 1,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "vague": {
+        "total": 2,
+        "bad": 0,
+        "bad_percentage": 0.0
+      },
+      "wrong-terminology": {
+        "total": 1,
+        "bad": 0,
+        "bad_percentage": 0.0
+      }
+    },
+    "bad_without_tool_calls": 6
+  },
+  "synthetic": {
+    "total": 75,
+    "bad": 34,
+    "bad_percentage": 45.333333333333336,
+    "by_type": {
+      "comparison": {
+        "total": 15,
+        "bad": 5,
+        "bad_percentage": 33.333333333333336
+      },
+      "detail": {
+        "total": 15,
+        "bad": 4,
+        "bad_percentage": 26.666666666666668
+      },
+      "factual": {
+        "total": 15,
+        "bad": 5,
+        "bad_percentage": 33.333333333333336
+      },
+      "how-to": {
+        "total": 15,
+        "bad": 5,
+        "bad_percentage": 33.333333333333336
+      },
+      "substitution": {
+        "total": 15,
+        "bad": 15,
+        "bad_percentage": 100.0
+      }
+    },
+    "bad_without_tool_calls": 31
+  }
+}

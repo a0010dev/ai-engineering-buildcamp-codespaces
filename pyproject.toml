@@ -15,6 +15,7 @@ dependencies = [
     "markitdown[pdf]>=0.1.8",
     "minsearch>=0.2.0",
     "openai>=3.19.2",
+    "pydantic-ai>=2.61.0",
     "pydantic-ai-slim[openai]>=2.56.0",
 ]
 
@@ -29,4 +30,5 @@ build-backend = "uv_build"
 members = [
     "Week4",
     "Week5",
+    "Week6",
 ]

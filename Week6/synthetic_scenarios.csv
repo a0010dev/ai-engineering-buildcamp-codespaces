@@ -1,0 +1,76 @@
+question,category,type
+What temperature should I preheat the oven for the Classic Margherita Pizza?,Classic Margherita Pizza,factual
+How do I roll out the pizza dough for the Classic Margherita Pizza?,Classic Margherita Pizza,how-to
+How long should I bake the Classic Margherita Pizza?,Classic Margherita Pizza,detail
+Can I use regular mozzarella instead of fresh mozzarella for the Classic Margherita Pizza?,Classic Margherita Pizza,substitution
+How does the Classic Margherita Pizza compare to the Spaghetti Carbonara in terms of preparation time?,Classic Margherita Pizza,comparison
+What is the cooking time for Chicken Tikka Masala?,Chicken Tikka Masala,detail
+How do I marinate the chicken for Chicken Tikka Masala?,Chicken Tikka Masala,how-to
+Can I substitute the heavy cream in Chicken Tikka Masala with coconut milk?,Chicken Tikka Masala,substitution
+What are the main spices used in Chicken Tikka Masala?,Chicken Tikka Masala,factual
+How does Chicken Tikka Masala compare to Thai Green Curry in terms of spice level?,Chicken Tikka Masala,comparison
+What are the main ingredients in Caesar Salad?,Caesar Salad,factual
+How do I make the dressing for Caesar Salad?,Caesar Salad,how-to
+What is the recommended serving size for Caesar Salad?,Caesar Salad,detail
+Can I replace anchovy paste with a different ingredient in Caesar Salad?,Caesar Salad,substitution
+How does Caesar Salad compare to Greek Salad in terms of flavor?,Caesar Salad,comparison
+What is the cooking time for Beef Tacos?,Beef Tacos,factual
+How do I make Beef Tacos from scratch?,Beef Tacos,how-to
+How many servings does the Beef Tacos recipe yield?,Beef Tacos,detail
+Can I substitute ground beef with turkey in Beef Tacos?,Beef Tacos,substitution
+How do Beef Tacos compare to Classic Margherita Pizza in terms of preparation time?,Beef Tacos,comparison
+What are the main ingredients in the Vegetable Stir Fry?,Vegetable Stir Fry,factual
+How do I prepare the vegetables for the Vegetable Stir Fry?,Vegetable Stir Fry,how-to
+What is the recommended cook time for the Vegetable Stir Fry?,Vegetable Stir Fry,detail
+Can I use olive oil instead of sesame oil in the Vegetable Stir Fry?,Vegetable Stir Fry,substitution
+How does the Vegetable Stir Fry compare to the Thai Green Curry in terms of flavor?,Vegetable Stir Fry,comparison
+What are the main ingredients in Spaghetti Carbonara?,Spaghetti Carbonara,factual
+How do I make the sauce for Spaghetti Carbonara creamy without scrambling the eggs?,Spaghetti Carbonara,how-to
+What is the recommended cook time for Spaghetti Carbonara?,Spaghetti Carbonara,detail
+Can I substitute bacon for guanciale in Spaghetti Carbonara?,Spaghetti Carbonara,substitution
+How does Spaghetti Carbonara compare to Classic Margherita Pizza in terms of preparation time?,Spaghetti Carbonara,comparison
+What are the main ingredients in Thai Green Curry?,Thai Green Curry,factual
+How do I make the sauce thicker in Thai Green Curry?,Thai Green Curry,how-to
+What temperature should the coconut milk be heated to when making Thai Green Curry?,Thai Green Curry,detail
+Can I use tofu instead of chicken thigh in Thai Green Curry?,Thai Green Curry,substitution
+How does Thai Green Curry compare to Chicken Tikka Masala in flavor?,Thai Green Curry,comparison
+What are the ingredients needed for Greek Salad?,Greek Salad,factual
+How do I prepare Greek Salad?,Greek Salad,how-to
+What is the recommended prep time for Greek Salad?,Greek Salad,detail
+Can I replace feta cheese with goat cheese in Greek Salad?,Greek Salad,substitution
+How does Greek Salad compare to Caesar Salad in terms of ingredients?,Greek Salad,comparison
+What are the key ingredients for making Chocolate Lava Cake?,Chocolate Lava Cake,factual
+How do I adjust the baking time for Chocolate Lava Cake if I want to make mini versions?,Chocolate Lava Cake,how-to
+What is the ideal baking temperature for Chocolate Lava Cake?,Chocolate Lava Cake,detail
+Can I substitute dark chocolate with milk chocolate when making Chocolate Lava Cake?,Chocolate Lava Cake,substitution
+How does Chocolate Lava Cake compare to Banana Pancakes in terms of preparation time?,Chocolate Lava Cake,comparison
+What is the primary ingredient used in traditional Miso Soup?,Miso Soup,factual
+How do I prepare the dashi stock for Miso Soup?,Miso Soup,how-to
+What is the recommended cooking time for Miso Soup?,Miso Soup,detail
+Can I replace silken tofu in Miso Soup with firm tofu?,Miso Soup,substitution
+How does the flavor of Miso Soup compare to that of Thai Green Curry?,Miso Soup,comparison
+What are the main ingredients needed to make Banana Pancakes?,Banana Pancakes,factual
+How do I mash the bananas for the Banana Pancakes?,Banana Pancakes,how-to
+What is the cooking time for the Banana Pancakes?,Banana Pancakes,detail
+Can I use almond milk instead of regular milk in the Banana Pancakes?,Banana Pancakes,substitution
+How do Banana Pancakes compare to Classic Margherita Pizza in terms of preparation time?,Banana Pancakes,comparison
+What is the cooking time for the Lamb Shawarma Bowl?,Lamb Shawarma Bowl,detail
+How do I marinate the lamb for the Lamb Shawarma Bowl?,Lamb Shawarma Bowl,how-to
+Can I use chicken instead of lamb in the Lamb Shawarma Bowl?,Lamb Shawarma Bowl,substitution
+What are the key spices in the Lamb Shawarma Bowl?,Lamb Shawarma Bowl,factual
+How does the flavor of the Lamb Shawarma Bowl compare to the Chicken Tikka Masala?,Lamb Shawarma Bowl,comparison
+What are the key ingredients in Mushroom Risotto?,Mushroom Risotto,factual
+How do I make Mushroom Risotto creamy?,Mushroom Risotto,how-to
+What is the ideal cook time for Mushroom Risotto to achieve the right texture?,Mushroom Risotto,detail
+Can I replace arborio rice with regular rice in Mushroom Risotto?,Mushroom Risotto,substitution
+How does Mushroom Risotto compare to Spaghetti Carbonara in terms of preparation difficulty?,Mushroom Risotto,comparison
+What is the cook time for Fish and Chips?,Fish and Chips,detail
+How do I make the batter for Fish and Chips?,Fish and Chips,how-to
+Can I replace cod fillets with tilapia in Fish and Chips?,Fish and Chips,substitution
+How does Fish and Chips compare to Classic Margherita Pizza in terms of preparation time?,Fish and Chips,comparison
+What is a key ingredient in Fish and Chips?,Fish and Chips,factual
+What are the main ingredients in the Falafel Wrap?,Falafel Wrap,factual
+How do I prepare the chickpeas for the Falafel Wrap?,Falafel Wrap,how-to
+What temperature should I deep fry the falafel for the Falafel Wrap?,Falafel Wrap,detail
+Can I use black beans instead of chickpeas in the Falafel Wrap?,Falafel Wrap,substitution
+How does the flavor of the Falafel Wrap compare to the Lamb Shawarma Bowl?,Falafel Wrap,comparison
